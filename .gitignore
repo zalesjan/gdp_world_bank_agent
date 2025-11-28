@@ -1,0 +1,18 @@
+/archive
+flow.py
+../.idea/
+out/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Virtual env / system
+venv/
+*.log
+
+# API keys
+.env
+build/
+.gradle/
