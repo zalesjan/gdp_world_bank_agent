@@ -59,7 +59,7 @@ Env Loader (optional)	dotenv-kotlin
 ⚙️ Setup Instructions
 
 1️⃣ Clone the repository
-git clone https://github.com/zalesjan/gdp_agent
+git clone https://github.com/zalesjan/gdp_world_bank_agent
 cd gdp_agent
 
 2️⃣ (Optional) Create a virtual .env file
